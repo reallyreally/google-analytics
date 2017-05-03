@@ -1,0 +1,29 @@
+{
+  "name": "@really/google-analytics",
+  "version": "0.0.1",
+  "description": "ExpressJS Middleware for Google Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reallyreally/google-analytics.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "google",
+    "analytics",
+    "middleware"
+  ],
+  "author": "Troy Kelly <troy.kelly@reallyreally.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/reallyreally/google-analytics/issues"
+  },
+  "homepage": "https://github.com/reallyreally/google-analytics#readme",
+  "dependencies": {
+    "universal-analytics": "^0.4.13"
+  }
+}
