@@ -1,6 +1,6 @@
 {
   "name": "@really/google-analytics",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "ExpressJS Middleware for Google Analytics",
   "main": "index.js",
   "scripts": {
